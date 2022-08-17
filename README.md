@@ -70,7 +70,7 @@ To install the LNN:
     ```
 3. Install the LNN as a library:
     ```commandline
-    pip install git+https://github.com/ShreeyanshLazulite/LNN
+    pip install git+https://github.com/ShreeyanshLazulite/LNN.git
     ```
 
 ## Contribution
